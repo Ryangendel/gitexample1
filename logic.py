@@ -1,1 +1,6 @@
 hello = "something"
+hello1 = "something"
+hello2 = "something"
+hello3 = "something"
+hello4 = "something"
+hello5 = "something"
